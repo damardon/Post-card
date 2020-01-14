@@ -1,0 +1,38 @@
+body{
+background: black;
+}
+h1{
+     padding-left: 10px
+}
+
+#postcard{
+background: rgb(255, 254, 254); 
+width: 500px; 
+height: 300px; 
+margin: auto; 
+}
+#encabezado{
+display:inline-flex;
+}
+#cuerpo{
+display:inline-flex;
+}
+
+p{
+   padding-left: 10px;  
+   padding-right: 10px;
+}
+form{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#foto{
+float: right;
+padding-left: 200px;
+padding-top: 10px;
+}
+
+#pie{
+    text-align: center;
+}
